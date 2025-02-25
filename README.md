@@ -1,6 +1,6 @@
 # CryptoClustering
 
-For this challenge, I will be using my knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes. I will be using standardscaler() module from scikit-learn to normalize the data, find the best value for k Using the scaled dataFrame, and then cluster cryptocurrencies with k-means using the scaled dataframe. Next I will be optimizing clusters with principal component analysis, find the best value for k Using the PCA dataframe, and lastly cluster cryptocurrencies with k-means using the PCA dataframe.
+For this challenge, I will be using my knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes. I will be using standardscaler() module from scikit-learn to normalize the data, find the best value for k Using the scaled dataframe, and then cluster cryptocurrencies with k-means using the scaled dataframe. Next I will be optimizing clusters with principal component analysis, find the best value for k Using the PCA dataframe, and lastly cluster cryptocurrencies with k-means using the PCA dataframe.
 
 ### References
 
